@@ -2,13 +2,14 @@
 
 My crafts:
 
-## [cn2 (CIRCON2)](READMECN2ru.md)
+## [cn2 (CIRCON2)](docs/READMECN2ru.md)
 
+![cn2-logo](https://raw.githubusercontent.com/dynoser/w3o.com/main/docs/circon2logo.png)
 > The cn2 algorithm allows you to cut the data into the required number of crypto containers,
 > indicating at the same time how many of these containers are needed to restore the original data.
 
 - [Quick Run in Browser](cn2.html)
-- [README about cn2 (ru)](READMECN2ru.md)
+- [README about cn2 (ru)](https://w3o.com/docs/READMECN2ru)
 - [Code JavaScript](https://github.com/dynoser/w3o.com/tree/main/js)
 
 ---
