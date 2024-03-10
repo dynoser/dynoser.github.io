@@ -45,6 +45,9 @@ My crafts:
 # [vc85 encoding](https://github.com/dynoser/base85)
 
 ![vc85-logo](https://raw.githubusercontent.com/dynoser/base85-vscode-plugin/main/images/icon.png)
+
+> vc85 encoding is a variation of base85 (85-character chatset) and is compatible with ASCII85.
+
 - [README (en)](https://github.com/dynoser/base85/blob/main/README.md)
 - [README (ru)](https://github.com/dynoser/base85/blob/main/doc/README_ru.md)
 - [PHP package dynoser/base85](https://github.com/dynoser/base85)
@@ -52,3 +55,22 @@ My crafts:
 - [TypeScript code (one file)](https://github.com/dynoser/base85-vscode-plugin/blob/main/src/vc85.ts)
 - [VsCode plugin (marketplace)](https://marketplace.visualstudio.com/items?itemName=dynoser.base85)
 - [VsCode plugin (sources)](https://github.com/dynoser/base85-vscode-plugin)
+
+---
+
+---
+
+---
+
+# [Dubla encoding](https://github.com/dynoser/dubla)
+
+![dubla-logo](https://raw.githubusercontent.com/dynoser/dubla-vscode-plugin/main/images/icon.png)
+
+> Dubla encoding scheme allows to almost halve the number of characters that the text takes up.
+This is achieved by using Base-1024 encoding and using compression (AltBase64, Deflate).
+
+- [PHP code](https://github.com/dynoser/dubla/tree/main/src)
+- [TypeScript code](https://github.com/dynoser/dubla-vscode-plugin/tree/main/src)
+- [VsCode plugin (marketplace)](https://marketplace.visualstudio.com/items?itemName=dynoser.dubla)
+- [VsCode plugin (sources)](https://github.com/dynoser/dubla-vscode-plugin)
+
