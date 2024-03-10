@@ -28,14 +28,27 @@ My crafts:
 - [README (ru)](https://github.com/dynoser/HELML/blob/master/docs/README-HELML_ru.md)
 - [Specification (en)](https://github.com/dynoser/HELML/blob/master/docs/HELML_en.md)
 - [Specification (ru)](https://github.com/dynoser/HELML/blob/master/docs/HELML_ru.md)
-- [TypeScript](https://github.com/dynoser/HELML/blob/master/helml-vscode-plugin/src/HELML.ts)
+- [TypeScript (one file)](https://github.com/dynoser/HELML/blob/master/helml-vscode-plugin/src/HELML.ts)
 - [JavaScript](https://github.com/dynoser/HELML/tree/master/JavaScript/helml)
-- [PHP dynoser/HELML](https://github.com/dynoser/phpHELML)
+- [PHP package dynoser/HELML](https://github.com/dynoser/phpHELML)
+- [PHP code (one file)](https://github.com/dynoser/phpHELML/blob/master/src/HELML.php)
 - [Python](https://github.com/dynoser/HELML/tree/master/Python)
-- [VsCode plugin](https://github.com/dynoser/HELML/tree/master/helml-vscode-plugin)
+- [VsCode plugin (markeplace)](https://marketplace.visualstudio.com/items?itemName=dynoser.helml)
+- [VsCode plugin (sources)](https://github.com/dynoser/HELML/tree/master/helml-vscode-plugin)
 
 ---
 
 ---
 
 ---
+
+# [vc85 encoding](https://github.com/dynoser/base85)
+
+![vc85-logo](https://raw.githubusercontent.com/dynoser/base85-vscode-plugin/main/images/icon.png)
+- [README (en)](https://github.com/dynoser/base85/blob/main/README.md)
+- [README (ru)](https://github.com/dynoser/base85/blob/main/doc/README_ru.md)
+- [PHP package dynoser/base85](https://github.com/dynoser/base85)
+- [PHP code (one file)](https://github.com/dynoser/base85/blob/main/src/vc85.php)
+- [TypeScript code (one file)](https://github.com/dynoser/base85-vscode-plugin/blob/main/src/vc85.ts)
+- [VsCode plugin (marketplace)](https://marketplace.visualstudio.com/items?itemName=dynoser.base85)
+- [VsCode plugin (sources)](https://github.com/dynoser/base85-vscode-plugin)
