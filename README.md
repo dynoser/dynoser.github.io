@@ -74,3 +74,23 @@ This is achieved by using Base-1024 encoding and using compression (AltBase64, D
 - [VsCode plugin (marketplace)](https://marketplace.visualstudio.com/items?itemName=dynoser.dubla)
 - [VsCode plugin (sources)](https://github.com/dynoser/dubla-vscode-plugin)
 
+> Inside the Double encoding, an algorithm similar to base64alt (on AltBase64) is used, which will be discussed below:
+---
+
+---
+
+---
+
+# [AltBase64](https://github.com/dynoser/base64alt)
+
+![altbase64](https://raw.githubusercontent.com/dynoser/base64alt/main/doc/icon.png)
+
+> The altbase64 encoding algorithm is based on a base64 charset, but encodes data according to different principles. In fact, it is a text compression algorithm that makes the encoded text look similar to the text before encoding. Designed for encoding texts based on Latin and Cyrillic alphabet.
+- README coming soon
+- [AltBase64 charset table](https://raw.githubusercontent.com/dynoser/base64alt/main/doc/altbase64full.png)
+- [PHP code (one file)](https://github.com/dynoser/base64alt/blob/main/src/Base64Alt.php)
+- [PHP package dynoser/base64alt](https://github.com/dynoser/base64alt)
+- [TypeScript (one file)](https://github.com/dynoser/dubla-vscode-plugin/blob/main/src/altbase64.ts)
+> Unlike AltBase64, the base64alt algorithm combines three different encoding options: base64 classic, AltBase64,
+and base64 with deflate compression (gzip). The base64alt decoder is backward compatible with base64-classic encoding.
+
